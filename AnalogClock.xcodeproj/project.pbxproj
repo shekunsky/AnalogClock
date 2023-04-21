@@ -11,6 +11,7 @@
 		3B2ECD4329F29890001C8CE6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2ECD4229F29890001C8CE6 /* ContentView.swift */; };
 		3B2ECD4529F29893001C8CE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B2ECD4429F29893001C8CE6 /* Assets.xcassets */; };
 		3B2ECD4829F29893001C8CE6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B2ECD4729F29893001C8CE6 /* Preview Assets.xcassets */; };
+		3B2ECD4F29F2B7F0001C8CE6 /* AnalogClock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2ECD4E29F2B7F0001C8CE6 /* AnalogClock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3B2ECD4229F29890001C8CE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3B2ECD4429F29893001C8CE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B2ECD4729F29893001C8CE6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3B2ECD4E29F2B7F0001C8CE6 /* AnalogClock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnalogClock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3B2ECD4029F29890001C8CE6 /* AnalogClockApp.swift */,
 				3B2ECD4229F29890001C8CE6 /* ContentView.swift */,
+				3B2ECD4E29F2B7F0001C8CE6 /* AnalogClock.swift */,
 				3B2ECD4429F29893001C8CE6 /* Assets.xcassets */,
 				3B2ECD4629F29893001C8CE6 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B2ECD4F29F2B7F0001C8CE6 /* AnalogClock.swift in Sources */,
 				3B2ECD4329F29890001C8CE6 /* ContentView.swift in Sources */,
 				3B2ECD4129F29890001C8CE6 /* AnalogClockApp.swift in Sources */,
 			);
